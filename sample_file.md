@@ -4,13 +4,16 @@ So I lived my life alone, without anyone that I could really talk to, until I ha
 The first night, then, I went to sleep on the sand, a thousand miles from any human habitation. I was more isolated than a shipwrecked sailor on a raft in the middle of the ocean. Thus you can imagine my amazement, at sunrise, when I was awakened by an odd little voice. It said:
 _If you please--draw me a sheep!_
 
-** What! **
-** Draw me a sheep! **
+- What!
+- Draw me a sheep!
 
 |Course Name| Description|
+|-----|-----|
 |Markdown| Sample Text|
 |GIT |Sample Text|
 |Jekyll | newly added
 
 
 ## This is heading 2
+
+Here is a new paragraph
