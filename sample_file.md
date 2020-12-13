@@ -21,7 +21,7 @@ _If you please--draw me a sheep!_
 Here is a new paragraph
 
 ```
-*Code Block *
+**Code Block**
 
 int studioio.h
 int c
