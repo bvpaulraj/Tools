@@ -14,6 +14,8 @@ _If you please--draw me a sheep!_
 |Markdown| Sample Text|
 |GIT |Sample Text|
 |Jekyll | newly added
+|Atom | text editor
+
 
 
 ## This is heading 2
