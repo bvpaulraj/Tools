@@ -1,4 +1,4 @@
-
+![Welcome Back](https://image.shutterstock.com/image-photo/welcome-back-words-written-notebook-600w-1730651737.jpg)
 
 # Chapter II
 
@@ -32,3 +32,9 @@ int a
 - [ ] Option A
 - [ ] Option B
 - [x] Option C 
+
+> This is
+> a sample blockquote
+>
+> > This is a Sample Nested
+> > Blockquote
